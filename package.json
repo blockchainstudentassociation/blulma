@@ -1,14 +1,14 @@
 {
   "name": "blulma",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "https://bulma.io with BSA colors & guidelines",
   "main": "blulma.css",
-  "repository": "https://github.com/blockchainstudentassociation/blulma",
+  "repository": "https://github.com/bsaepfl/blulma",
   "author": "Louis Merlin <louis.merlin@epfl.ch>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "bsa.css": "^1.0.3",
+    "bsa.css": "^1.0.4",
     "bulma": "^0.7.1",
     "sass": "^1.14.0"
   },
