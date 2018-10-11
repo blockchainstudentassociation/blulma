@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "bsa.css": "^1.0.4",
+    "bsa.css": "^1.0.5",
     "bulma": "^0.7.1",
     "sass": "^1.14.0"
   },

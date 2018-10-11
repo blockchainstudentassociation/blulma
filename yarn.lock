@@ -120,10 +120,10 @@ braces@^2.3.0, braces@^2.3.1:
     split-string "^3.0.2"
     to-regex "^3.0.1"
 
-bsa.css@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/bsa.css/-/bsa.css-1.0.4.tgz#2445264965bb1433de8e38585b23a4ca2e831056"
-  integrity sha512-4lS1NXRHhpo6XlWiIpFakuaWElnXMKNoDklXfXv1J0trw/QvA6o9YDKVHSvW8ec2tOZDNiFnYq+lH9/Kd5XweQ==
+bsa.css@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/bsa.css/-/bsa.css-1.0.5.tgz#a447bf569c457e6edc2255bd3d09ebca4a998c90"
+  integrity sha512-v/+sE2Xwe8knvSi5iKbhkKSWx4oFzr7pN3uNm8iFQjJDA7Rg8ikCCn79T/V1rzhyRGXW4jg2KPSKllWXOCrK9g==
 
 bulma@^0.7.1:
   version "0.7.1"
